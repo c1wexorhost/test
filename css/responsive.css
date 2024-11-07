@@ -1,0 +1,313 @@
+
+@media (max-width:1200px) and (min-width:991px){
+.slide .slide__img {
+
+    top: 25%;
+   
+}
+.slideshow-item-text p {
+  
+    font-size: 15px;
+}
+
+.service-title p {
+    line-height: 32px;
+    color: #313131;
+    text-align: justify;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+}
+
+@media (max-width:460px) and (min-width:320px){
+.service-desc {
+   height: 520px !important;
+
+  }
+  
+  img.service-img {
+
+    margin-bottom: -20px
+  }
+}
+
+@media (max-width:456px) and (min-width:456px){
+.service-desc {
+    height: 465px;
+}
+}
+@media (max-width:768px) and (min-width:768px){
+.navbar-default .navbar-nav > li {
+ 
+    border-bottom:none!important;
+}
+}
+
+@media (max-width:991px){
+	.footer-logo {
+ 
+    width: 30%;
+  }
+
+.serv {
+width: 97%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 4px;
+}
+.service-title p {
+    line-height: 26px;
+    color: #313131;
+    text-align: justify;
+    font-size: 14px;
+}
+.service-title h2 {
+    color: #313131;
+    font-size: 20px;
+
+}
+}
+.service-desc {
+  
+    height: 333px;
+
+}
+
+@media (max-width:500px){
+
+.social{
+display: none!important;
+}
+
+}
+
+@media (max-width:680px){
+
+img.service-img {
+    margin-top: 50px;
+}
+
+}
+
+
+
+@media (max-width:1300px){ 
+
+.latest-project {
+    padding: 50px 0;
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width:561px){ 
+	
+.footer-bottom-list{
+  float: none;
+}
+
+.social-footer {
+	float:none;
+}
+.footer-bottom-list p {
+
+    padding: 0px 0px;
+}
+.testimonial .description {
+
+    text-align: justify;
+}
+
+}
+
+@media (max-width:625px){
+   .service-title h2 {
+  
+    margin: 5px 0px 0px;
+   }
+   .service-title h2 span {
+ 
+    font-size: 28px;
+   }
+   
+}
+
+
+@media (max-width:768px){
+    
+footer h3 {
+
+    margin: 10px 0px 25px!important;
+
+}
+
+.slideshow {
+    width: 100%;
+    height: 36.5vh;
+}
+
+.slideshow-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.slideshow-item-text {
+
+width:100%;
+    padding: 0px 0px 0px 0px!important;
+}
+.slideshow-item-text p {
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+
+.slideshow-item-text h5 {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.service-desc {
+  
+    height: 361px;
+  }
+  
+  
+  img.service-img {
+
+   /*margin-top: 80px;*/
+   /*margin-bottom: -81px;*/
+}
+
+.service-title p {
+    line-height: 26px;
+}
+
+.mar-top-90 {
+    margin-top: 10px !important;
+}
+
+
+.swiper-container {
+    height: 80vw!important;
+}
+
+
+
+}
+
+@media (max-width:991px) and (min-width:768px){
+
+	.mar-top-90 {
+    margin-top: 175px !important;
+}
+}
+
+@media (max-width:768px) and (min-width:320px){
+
+.slideshow-item-text {
+   
+    position: absolute;
+    bottom: 0%;
+    /*transform: translateY(73%);*/
+    left: 0px;
+    background-color: #e8edf2;
+    color: #545454;
+    /*padding: 2rem 8rem;*/
+  }
+}
+
+
+
+@media (max-width:600px){
+
+.slideshow-item-text {
+   
+    padding: 5rem 2rem;
+    width: 100%;
+   }
+   
+   .swiper-button-next, .swiper-button-prev {
+    position: absolute;
+    top: 63%;
+   
+  }
+}
+
+
+
+@media (max-width:768px){
+.slide .slide__content--headings .top-title{
+    font-size:1.5rem;
+}    
+  .slide .slide__content {
+ 
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 40px 20px 4px;
+  
+  }
+
+#header {
+
+    /*top: -102px;*/
+   
+}
+
+.banner__slider {
+  
+    /*top: 99px;*/
+}
+.slide .slide__content--headings .top-title {
+  
+    font-size: 1.5rem;
+}
+
+
+
+.slide .slide__content--headings .title {
+    font-size: 1.5rem;
+}
+.slide .slide__content--headings h2 {
+   
+    margin: 22px 0 31px;
+}
+
+
+.ser-list {
+    width: 70% !important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+
+.dropdown-menu {
+    position: absolute;
+    top: 25%!important;
+   }
+
+    .navbar-brand {
+    	float:right;
+    }
+    .navbar-default .navbar-brand > img {
+    max-height: 100px;
+}
+
+.navbar {
+
+    background: #ffff;
+    }
+
+
+    .navbar-default .navbar-nav > li {
+    color: #4b4e53;
+    border-bottom: 1px solid #60cf6f;
+}
+
+
+}
